@@ -1,0 +1,8 @@
+# rusty-word-smith .gitignore file
+
+# environment variables
+.env
+
+# build artifacts
+index.html
+/target
